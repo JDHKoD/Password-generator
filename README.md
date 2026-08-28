@@ -108,16 +108,15 @@ password-generator/
 
 🔹 USDT (Polygon) — Рекомендуется (низкая комиссия)
 
-0x6d9d19cc9f7a5af13f35390fb739e957499e1772
-  
+0x0100CAB59D16b9f5C68f88132F27b295c84560Fe
+
 🔹 USDT (Arbitrum)
 
-0x6d9d19cc9f7a5af13f35390fb739e957499e1772
-  
+0x0100CAB59D16b9f5C68f88132F27b295c84560Fe
 
 🔹 USDT (Ethereum / ERC-20) — Высокая комиссия!
 
-0x6d9d19cc9f7a5af13f35390fb739e957499e1772
+0x0100CAB59D16b9f5C68f88132F27b295c84560Fe
 
 🔹 BTC
 
